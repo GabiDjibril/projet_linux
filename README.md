@@ -33,5 +33,5 @@ Finally, we'll make a plot out of these counts to better see how the development
 9. Conclusion
 Thanks to the solid foundation and caretaking of Linux Torvalds, many other developers are now able to contribute to the Linux kernel as well. There is no decrease of development activity at sight!
 
-[
+
 
